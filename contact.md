@@ -5,7 +5,7 @@ title: Contact
 
 # Kontakt
 
-Email: kontakt@kajlo.dev
+Email: kajlo.dev@gmail.com
 
 Lub:
 https://buycoffee.to/kajlo.dev
