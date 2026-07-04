@@ -1,13 +1,14 @@
 ---
 layout: default
-title: About
+title: O mnie
 ---
 
-# O projekcie
+# 🧑‍💻 O mnie
 
-Kajlo SaaS to minimalistyczny starter do tworzenia projektów SaaS i landing page.
+Jestem Kajlo — developer budujący proste i szybkie projekty webowe.
 
-Skupia się na:
-- szybkości
-- prostocie
-- gotowości do wdrożenia
+- Frontend / backend
+- SaaS / MVP
+- GitHub Pages / Jekyll
+
+Lubię minimalizm i szybkie wdrożenia.
