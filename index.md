@@ -3,19 +3,12 @@ layout: default
 title: Home
 ---
 
-# Kajlo SaaS 🚀
+# 👋 Witaj na kajlo.dev
 
-Buduj szybkie mikro-SaaS bez zbędnego kodu.
+Minimalna strona deweloperska oparta o Jekyll + GitHub Pages.
 
-## Funkcje
+## 🚀 Co tu znajdziesz:
+- projekty
+- eksperymenty
 
-- ⚡ Ultra szybki landing
-- 💳 Gotowy pod płatności
-- 📱 Mobile-first
-- 🔧 Łatwe podmiany treści
-
-## CTA
-
-👉 [Zacznij teraz](pricing.md)
-
-👉 Wsparcie: https://buycoffee.to/kajlo.dev
+👉 Przejdź do [projektów](/projects)
