@@ -1,11 +1,10 @@
-title: Kajlo SaaS
-description: Nowoczesny mikro-SaaS builder by kajlo.dev
-baseurl: ""
-url: ""
+title: kajlo.dev
+description: Minimal dev portfolio & projects
+theme: jekyll-theme-hacker
+
+author: Kajlo
 
 markdown: kramdown
-
-theme: minima
 
 plugins:
   - jekyll-feed
